@@ -303,6 +303,7 @@ let s:file_extension_colors = {
   \ 'erl'      : s:lightPurple,
   \ 'hrl'      : s:pink,
   \ 'vim'      : s:green,
+  \ 'vue'      : s:green,
   \ 'ai'       : s:darkOrange,
   \ 'psd'      : s:darkBlue,
   \ 'psb'      : s:darkBlue,
